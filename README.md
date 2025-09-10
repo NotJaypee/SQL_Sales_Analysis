@@ -98,7 +98,8 @@ GROUP BY
     cohort_year;
 ```
 **📈 Visualization:**
-![Cohort Analysis](/assets/cohort_analysis.png)
+
+<img src="/assets/cohort_analysis.png" alt="Cohort Analysis" width="50%">
 
 📊 Key Findings
 
@@ -155,7 +156,8 @@ GROUP BY
     customer_status
 ```
 **📈 Visualization:**
-![Cohort Analysis](/assets/customer_retention.png)
+
+<img src="/assets/customer_retention.png" alt="Cohort Analysis" width="50%">
 
 📊 Key Findings
 
