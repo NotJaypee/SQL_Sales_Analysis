@@ -61,7 +61,9 @@ ORDER BY
     customer_segment DESC
 ```
 **📈 Visualization:**
-![Cohort Analysis](/assets/customer_segmentation.png)
+<img src="/assets/customer_segmentation.png" alt="Cohort Analysis" width="50%">
+
+
 
 📊 Key Findings
 
